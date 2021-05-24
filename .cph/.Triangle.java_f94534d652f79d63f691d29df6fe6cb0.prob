@@ -1,0 +1,1 @@
+{"name":"Local: Triangle","url":"e:\\JAVA\\Dynamic Programming\\Triangle.java","tests":[{"id":1621757332425,"input":"4\n2\n3 4\n6 5 7\n4 1 8 3","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\Dynamic Programming\\Triangle.java","group":"local","local":true}
