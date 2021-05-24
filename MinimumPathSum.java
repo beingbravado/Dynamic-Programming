@@ -11,7 +11,6 @@ public class MinimumPathSum {
                     dp[i][j] = 0;
                     continue;
                 }
-                int l = dp[i - 1][j], r = dp[i][j - 1];
                 dp[i][j] = grid[i - 1][j - 1];
 
                 if (i == 1)
