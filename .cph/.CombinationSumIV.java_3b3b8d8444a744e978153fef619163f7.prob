@@ -1,0 +1,1 @@
+{"name":"Local: CombinationSumIV","url":"e:\\JAVA\\Dynamic Programming\\CombinationSumIV.java","tests":[{"id":1621927046838,"input":"3 4\n1 2 3","output":"7"},{"id":1621928570854,"input":"1 3\n9","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\Dynamic Programming\\CombinationSumIV.java","group":"local","local":true}
