@@ -9,9 +9,9 @@ public class CombinationSumIV {
                 if (j >= nums[i]) {
                     dp[j] += dp[j - nums[i]];
                 }
-                // System.out.print(dp[j] + " ");
+                System.out.print(dp[j] + " ");
             }
-            // System.out.println();
+            System.out.println();
         }
         return dp[target];
     }
